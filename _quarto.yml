@@ -13,9 +13,9 @@ website:
       - text: "About"
         href: "about.qmd"
       - text: "CV"
-        href: "cv/cv.qmd"
+        href: "cv/index.qmd"
       - text: "Research"
-        href: "research/research.qmd"
+        href: "research/index.qmd"
   
     right:
       - text: "{{< fa envelope title='E-mail' >}}"

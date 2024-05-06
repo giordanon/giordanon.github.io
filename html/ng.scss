@@ -97,7 +97,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100
 
 body {
     -webkit-font-smoothing: antialiased;
-    background-color: $natural;
+    background-color: $white;
 }
 
 .rtl {
@@ -353,7 +353,7 @@ pre.text, pre.sourceCode, .cell-output pre {
 
         li.project {
             margin-bottom: 2.5em;
-            border-left: 6px solid shift-color($red, -90%);
+            border-left: 6px solid $white;
 
             p {
                 margin: 0;
@@ -369,7 +369,7 @@ pre.text, pre.sourceCode, .cell-output pre {
             font-weight: 250;
             padding: 0.2em;
             margin-right: 0.5em;
-            background-color: $natural;
+            background-color: $white;
         }
     }
 
@@ -411,7 +411,7 @@ pre.text, pre.sourceCode, .cell-output pre {
             padding-right: 1.5em;
 
             a {
-                color: #FFEED9;
+                color: $white;
             }
         }
     }
