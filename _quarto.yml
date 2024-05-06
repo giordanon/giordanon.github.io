@@ -5,22 +5,51 @@ project:
 website:
   title: "Nico Giordano"
   navbar:
+    pinned: true
+    
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - research.qmd
+      - text: Home
+        href: index.qmd
+      - text: "About"
+        href: "about.qmd"
+      - text: "CV"
+        href: "cv/cv.qmd"
+      - text: "Research"
+        href: "research/research.qmd"
+  
+    right:
+      - text: "{{< fa envelope title='E-mail' >}}"
+        href: "mailto:ngiordano@ksu.edu"
+      - text: "{{< fa brands github size=1.1em title='GitHub' >}}"
+        href: https://github.com/giordanon
+      - text: "{{< fa brands youtube size=1.1em title='YouTube' >}}"
+        href: https://www.youtube.com/@nicolasgiordano3910/videos
+      - text: "{{< fa brands linkedin size=1.1em title='LinkedIn' >}}"
+        href: https://www.linkedin.com/in/giordanon/
+        
+  page-footer:
+    left: |
+      <span class="faux-block">{{< fa brands creative-commons >}} {{< var years >}} Nico Giordano</span>
+    center: |
+      <span class="faux-block">{{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span>
+    right: |
+      <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
+      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub]({{< var github-url >}})</span>
 
 format:
   html:
-    theme: united
-    mainfont: arial
-    fontsize: 1.0rem
-    fontcolor: "#045720"
-    linkcolor: "#690acf"
-    monofont: courier new
-    css: styles.css
-    toc: true
+    theme: 
+      - html/ng.scss
+    grid: 
+      body-width: 900px
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    highlight-style: monokai
+    
 
 
 

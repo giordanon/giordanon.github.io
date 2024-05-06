@@ -1,11 +1,50 @@
 ---
-title: "giordanon.github.io"
+title: "Hey there!"
+pagetitle: "Nico Giordano"
+main-photo: /files/profiles/Nicolas-Giordano-8.jpg
+title-block-banner: "#FFEED9"
+format:
+  html:
+    quarto-template-params:
+      banner-header-class: "home"
 ---
 
-This is a Quarto website.
+::: {.grid}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.g-col-12 .g-col-sm-4}
 
-```{r}
-1 + 1
+```{=html}
+<div class="grid" style="--bs-columns: 5; row-gap: 0;">
+  <div class="g-col-1 g-col-sm-0"></div>
+  <div class="g-col-3 g-col-sm-5">
+    <picture>
+      <img class="img-fluid" src="{{< meta main-photo >}}">
+    </picture>
+  </div>
+  <div class="g-col-1 g-col-sm-0"></div>
+</div>
 ```
+
+:::
+
+::: {.g-col-12 .g-col-sm-8}
+
+
+I'm a PhD student at the [Department of Agronomy at Kansas State university](https://www.agronomy.k-state.edu/). I received my B.Sc. in Agricultural Engineering from the University of Buenos Aires, Argentina.
+
+:::
+
+::: {.g-col-12 .g-col-sm-12}
+
+## 💼 Get In Touch
+
+Curious about my work? Reach me out via [Email](mailto:ngiordano@ksu.edu)
+
+## 📬 Follow Me
+
+Subscribe to my social media to learn more about...
+
+:::
+
+:::
+
