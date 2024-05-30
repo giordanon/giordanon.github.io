@@ -1,0 +1,81 @@
+---
+title: "Late-season nitrogen application increases grain protein concentration and is neutral for yield in wheat. A global meta-analysis"
+date: 2022-10-18
+author:
+  - name: Nicolas Giordano
+    url: 
+    orcid: 0000-0003-0159-4958 
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Victor O. Sadras
+    url: 
+    orcid: :0000-0002-5874-6775
+    affiliation: South Australian Research and Development Institute, The University of Adelaide
+  - name: Romulo P. Lollato
+    url: 
+    orcid: 0000-0002-3948-3914
+    affiliation: Department of Agronomy, Kansas State University
+categories: 
+  - N management
+  - Anthesis N
+  - Foliar N
+  - Post Anthesis N Uptake
+  - Bread making quality
+  - Photothermal quotient
+pub-info:
+  reference: >-
+    Nicolas Giordano, Victor O. Sadras and Romulo P. Lollato, “Late-season nitrogen application increases grain protein concentration and is neutral for yield in wheat. A global meta-analysis,” <em>Field Crops Research</em> Vol 220, no. S5 (Jan 2023): doi: <a href="https://doi.org/10.1016/j.fcr.2022.108740"><code>10.1016/j.fcr.2022.108740</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.1016/j.fcr.2022.108740
+      icon: fa-solid fa-scroll
+    #- name: Code
+    #  url: https://github.com/andrewheiss/who-cares-about-crackdown
+    #  icon: fa-brands fa-github
+    #- name: Data
+    #  url: "#data-and-code"
+    #  icon: fa-solid fa-table
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1016/j.fcr.2022.108740
+      icon: ai ai-zotero
+  # extra: >-
+  #   Presented at a workshop for a special issue of *Global Policy* entitled “Restricting NGOs: From Pushback to Accommodation,” University of Amsterdam, The Netherlands, June 2020 (held online due to COVID-19)
+doi: 10.1111/1758-5899.12984
+haiku:
+  - Greater grain protein concentration response
+  - to late season N
+  - is expected in high yielding environments.
+---
+
+## Important links
+
+- [Article](1-s2.0-S0378429022003112-main.pdf)
+
+## Abstract
+
+Late-season nitrogen (N) application has been proposed to boost grain yield and grain protein concentration (GPC) in cereals; however, its effects on bread and durum wheat have been inconsistent in field experiments. We performed a meta-analysis to (i) assess the effect of N applications to wheat after flag leaf visible (GS 37) on grain yield and GPC; and to assess the variation in these responses with (ii) N fertiliser management, (iii) environmental factors, and (iv) physiological traits. We searched ‘Agronomy Journal’, ‘Crop Science’, ‘European Journal of Agronomy’, and ‘Field Crops Research’ for articles published between 1980 and 2021 that allowed for a direct comparison of wheat yield and GPC between N application after GS 37 to an otherwise equally managed crop that received basal N fertilisation.  We also collected other traits such as stover biomass and N uptake at plant maturity, and dough rheological properties, when available. The search resulted in 38 articles that, in addition to one unpublished trial from our group, evaluated 542 pairwise comparisons in 127 environments. Across studies, grain yield ranged from 1.15 to 10.63 Mg ha-1 and showed a negative relation with GPC, which ranged from 65 to 189 g kg-1. Late-season N fertilisation was neutral for grain yield (I2, proportion of the overall variance due to variation in real effects rather than chance, 26.2%) and increased GPC with a pooled estimate of 3.96%. The response of GPC was heterogeneous (I2 = 84%), suggesting the need for exploration of potential moderators of the response. Meta-regression suggested that increasing the proportion of late N relative to the total available N positively associated to increases in GPC, and the residuals of this analysis suggested that later applications increased GPC response, with no effect of N fertiliser source or placement. Environments with low temperature, high photothermal quotient, and long duration of the critical period associated with greater GPC response to late-season N applications. The relative response of GPC to late fertilisation correlated with the relative response of both stover N uptake and nitrogen concentration in stover at maturity, but not with stover biomass at maturity. Alveogram index and dough extensibility increased when late-season N increased GPC. Enhancing GPC through late N applications should consider associations between management, environmental, and physiological factors. Future research should focus on forecasting GPC response to late N, based on GPC response drivers identified in the current research. 
+
+
+## Important figure
+
+Fig. 4: Pooled effects for grain yield (green symbols) and grain protein concentration (red symbols). Symbols and their whiskers represent the mean effect and 95 % bootstrapped CI for each of the studies in this analysis. The yellow symbols are the mean estimate and its 95 % bootstrapped confidence interval. Opacity of whiskers is relative to the significance of each estimate, and size of the points is relative to the weight of each study. Studies are sorted according to the mean yield of the basal N treatment in each study in decreasing order from top to bottom. Abbreviations: confidence interval (CI), lower bound (LB), upper bound (UB), I2 = I-squared statistic (%).
+
+![Fig. 4: Pooled effects for grain yield (green symbols) and grain protein concentration (red symbols). Symbols and their whiskers represent the mean effect and 95 % bootstrapped CI for each of the studies in this analysis. The yellow symbols are the mean estimate and its 95 % bootstrapped confidence interval. Opacity of whiskers is relative to the significance of each estimate, and size of the points is relative to the weight of each study. Studies are sorted according to the mean yield of the basal N treatment in each study in decreasing order from top to bottom. Abbreviations: confidence interval (CI), lower bound (LB), upper bound (UB), I2 = I-squared statistic (%).](fig4.png)
+
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1111/1758-5899.12984">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{GiordanoSadrasLollato:2022,
+    Author = {Nicolas Giordano, Victor O. Sadras and Romulo P. Lollato},
+    Doi = {10.1016/j.fcr.2022.108740},
+    Journal = {Field Crops Research},
+    Month = {1},
+    Number = {108740},
+    Title = {Late-season nitrogen application increases grain protein concentration and is neutral for yield in wheat. A global meta-analysis},
+    Volume = {290},
+    Year = {2023}}
+```

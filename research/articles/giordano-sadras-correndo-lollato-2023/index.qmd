@@ -1,0 +1,86 @@
+---
+title: "Cultivar-specific phenotypic plasticity of yield and grain protein concentration in response to nitrogen in winter wheat"
+date: 2023-11-17
+author:
+  - name: Nicolas Giordano
+    url: 
+    orcid: 0000-0003-0159-4958 
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Victor O. Sadras
+    url: 
+    orcid: :0000-0002-5874-6775
+    affiliation: South Australian Research and Development Institute, The University of Adelaide
+  - name: Adrian A. Correndo
+    url: 
+    orcid: :0000-0002-4172-289X
+    affiliation: University of Guelph
+  - name: Romulo P. Lollato
+    url: 
+    orcid: 0000-0002-3948-3914
+    affiliation: Department of Agronomy, Kansas State University
+categories: 
+  - N management
+  - G x N interaction
+  - Grain protein dilution
+pub-info:
+  reference: >-
+    Nicolas Giordano, Victor O. Sadras, Adrian A. Correndo and Romulo P. Lollato, “Cultivar-specific phenotypic plasticity of yield and grain protein concentration in response to nitrogen in winter wheat” <em>Field Crops Research</em> Vol 306, (Jan 2024): doi: <a href="https://doi.org/10.1016/j.fcr.2023.109202"><code>10.1016/j.fcr.2023.109202</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.1016/j.fcr.2023.109202
+      icon: fa-solid fa-scroll
+    #- name: Code
+    #  url: https://github.com/andrewheiss/who-cares-about-crackdown
+    #  icon: fa-brands fa-github
+    #- name: Data
+    #  url: "#data-and-code"
+    #  icon: fa-solid fa-table
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1016/j.fcr.2023.109202
+      icon: ai ai-zotero
+  # extra: >-
+  #   Presented at a workshop for a special issue of *Global Policy* entitled “Restricting NGOs: From Pushback to Accommodation,” University of Amsterdam, The Netherlands, June 2020 (held online due to COVID-19)
+doi: 10.1016/j.fcr.2023.109202
+haiku:
+  - We propose a yield-protein plasticity framework 
+  - to assess G × N interactions.
+---
+
+## Important links
+
+- [Article](1-s2.0-S0378429023003957-main.pdf)
+
+## Abstract
+
+Context: Owing to the interaction between genotype and environment (G x E), identifying traits to increase wheat yield and grain protein concentration simultaneously or increasing one without affecting the other remains a challenge. Phenotypic plasticity is an insightful perspective to understand G x E.
+Objective: To explore the relations of wheat yield and grain protein concentration in response to N input and its physiological basis from the perspective of phenotypic plasticity. 
+Method: We established a factorial experiment combining 14 winter wheat cultivars and four N fertilization rates (0, 45, 90 and 135 kg ha-1) in eight environments. We analyzed the interaction of cultivar and N combining a phenotypic plasticity framework and a three-phase model of grain yield and protein response to N input. The phases are: phase I, N supply limits both yield and grain protein; phase II, N supply limits grain protein but not yield; and phase III, N supply does not limit yield or grain protein concentration
+Results: Grain yield plasticity was positively associated to yield in high-yielding environments without N limitations (phase II) with no cost in low yielding environments, and associated to harvest index. Grain protein plasticity was a positively associated to protein in high protein environments without N limitations (phase III). Plasticity of grain protein concentration was negatively associated to grain number m-2, resulting in moderate negative association of protein plasticity and yield.  Grain C:N ratio associated weakly and positively with yield plasticity and strongly and negatively for grain protein plasticity. 
+Conclusion: This work proposes a yield-protein plasticity framework combined with a three-phase model that allows to disclose G × N interactions. Under our experimental conditions, we identified physiological mechanisms associated to yield and protein plasticity. 
+Implications: Yield and protein plasticity can contribute guiding grower’s cultivar selection towards high yield plasticity cultivars when aiming to high yield with acceptable protein levels or high protein plasticity cultivars to ensure high protein at the expense of lower yields. Yield plasticity brings opportunity to breed for high yielding cultivars while maintaining grain protein concentration. Accuracy of N recommendations models and mechanistic crop models can be improved by accounting for G × N interactions through plasticity of yield and grain protein.
+
+
+## Figure
+
+Fig. 5: Wheat grain yield (A-D) and protein (E-F) response to N supply under conditions conducive to high (90th percentile, triangles) and low (10th percentile, circles) trait expression for cultivars with contrasting phenotypic plasticity. Red symbols are for cultivars with low plasticity for yield (LCS Chrome) and protein (WB4269), and blue is for cultivars with high plasticity for yield (Bentley) and protein concentration (Green Hammer). Linetype indicates the phases conceptualized in Figure 2: dashed (phase I), solid (phase II), dotted (phase III). Lines represent the posterior medians and ribbons the 95% estimation credible interval for model predictions.  The size of the symbol shows protein concentration in the yield panels (A-D) and yield in the protein panels (E-H).
+
+![Fig. 5: Wheat grain yield (A-D) and protein (E-F) response to N supply under conditions conducive to high (90th percentile, triangles) and low (10th percentile, circles) trait expression for cultivars with contrasting phenotypic plasticity. Red symbols are for cultivars with low plasticity for yield (LCS Chrome) and protein (WB4269), and blue is for cultivars with high plasticity for yield (Bentley) and protein concentration (Green Hammer). Linetype indicates the phases conceptualized in Figure 2: dashed (phase I), solid (phase II), dotted (phase III). Lines represent the posterior medians and ribbons the 95% estimation credible interval for model predictions.  The size of the symbol shows protein concentration in the yield panels (A-D) and yield in the protein panels (E-H).](fig5.png)
+
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1016/j.fcr.2023.109202">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{GiordanoSadrasCorrendoLollato:2023,
+    Author = {Nicolas Giordano, Victor O. Sadras, Adrian A. Correndo and Romulo P. Lollato},
+    Doi = {10.1016/j.fcr.2023.109202},
+    Journal = {Field Crops Research},
+    Month = {1},
+    Number = {108740},
+    Title = {Cultivar-specific phenotypic plasticity of yield and grain protein concentration in response to nitrogen in winter wheat},
+    Volume = {306},
+    Year = {2024}}
+```

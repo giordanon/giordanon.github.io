@@ -11,7 +11,7 @@ include-back-link: false
 toc-location: right
 ---
 
-My research spans ...
+My research aims to determine agronomic, genetic, human, and social aspects of sustainably reducing wheat yield gaps. Agronomically, two projects address the management of nitrogen (N) fertilizer to increase winter wheat grain yield while maintaining (or increasing) grain protein concentration (GPC), including (i) late-season N application and (ii) in-season N by cultivar interactions. A third project is a statistical approach to determine seeding rates that maximize yield and reduce yield variability as dependent on yield-environment. A fourth project characterizes the genetic architecture of winter wheat traits that contribute to yield GxE. From the human and social components, I am conducting key informant and structured discussion analyses with major players across the wheat value chain to identify indicators and metrics needed for the development of sustainable bread.
 
 ## Journal articles
 
