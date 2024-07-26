@@ -1,0 +1,93 @@
+---
+title: "Winter wheat response to plant density in yield contest fields"
+date: 2024-06-02
+author:
+  - name: Romulo P. Lollato
+    url: 
+    orcid: 0000-0002-3948-3914
+    affiliation: Department of Agronomy, Kansas State University
+
+  - name: Luiz O. Pradella
+    url: 
+    orcid:  
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Nicolas Giordano
+    url: 
+    orcid: 0000-0003-0159-4958 
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Luke P. Ryan
+    url: 
+    orcid: 
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Jorge R. Soler
+    url: 
+    orcid: 
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Luana M. Simao
+    url: 
+    orcid: 
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Brent R. Jaenisch
+    url: 
+    orcid:  
+    affiliation: AGVISE Laboratories
+  - name: Rick Horton
+    url: 
+    orcid:  
+    affiliation: Horton Seed Services
+
+categories: 
+  - Seeding rate
+  - Agronomic optimum plant density
+  - Winter wheat
+  
+pub-info:
+  reference: >-
+    Romulo P. Lollato, Luiz O. Pradella, Nicolas Giordano,Luke P. Ryan, Luana M. Simao, Jorge A. Soler, Brent R. Jaenisch, Rick Horton,“Winter wheat response to plant density in yield contest fields,” <em>Crop Science</em> doi: <a href="https://doi.org/10.1002/csc2.21296"><code>10.1002/csc2.21296</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.1002/csc2.21296
+      icon: fa-solid fa-scroll
+    #- name: Code
+    #  url: https://github.com/andrewheiss/who-cares-about-crackdown
+    #  icon: fa-brands fa-github
+    #- name: Data
+    #  url: "#data-and-code"
+    #  icon: fa-solid fa-table
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1002/csc2.21296
+      icon: ai ai-zotero
+  # extra: >-
+
+doi: 10.1002/csc2.21296
+haiku:
+- Current seeding rate recommendations could be lowered 
+- for intensively managed fields.
+---
+
+## Important links
+
+- [Article](lollato-et-al-2024.pdf)
+
+## Abstract
+
+Seeding rate recommendations for wheat (Triticum aestivum L.) are often 150–450seeds m−2 . However, we hypothesize that wheat grown with high resource availability (i.e., fertility and moisture) can maximize yield under considerably lower rates.Our objectives were to explore winter wheat response to low populations under high resource availability using yield-contest fields as a case study. A factorial experiment evaluated four wheat varieties (i.e., Joe, WB-Grainfield, Langin, and LCS Revere)exposed to five seeding rates (50, 100, 150, 200, and 250 seeds m−2 ) during five seasons in commercial wheat fields managed by yield-contest winning producers near Leoti, KS. Fields were silt-loam soils with high available water-holding capacity, long-term history of manure application with non-limiting fertility, and adopted a sorghum [Sorghum bicolor (L.) Moench]–fallow–wheat rotation. Plant density ranged from 26 to 341 plants m−2 and yield ranged from 3.2 to 6.8 Mg ha−1 . Water use efficiency of 19.5 kg ha−1 mm−1 suggested no management limitations to yield.Quadratic models portrayed the grain yield–plant density relation well, with 95% of the maximum yield reached at 68 to 91 plants m−2 for crops sown at the optimum date(4 out of 5 years), and at 312 plants m−2 for a late-sown crop. Greater fall temperature accumulation reduced the relative yield between the maximum and minimum seeding rates. There was no variety × plant density interaction and Langin was the most consistent yielding variety across environments. Optimum plant density for winter wheat in environments with high resource availability may be considerably lower than current recommendations.
+
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1002/csc2.21296">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{LollatoEtAl:2024,
+    Author = { Romulo P. Lollato, Luiz O. Pradella, Nicolas Giordano,Luke P. Ryan, Luana M. Simao, Jorge A. Soler, Brent R. Jaenisch, Rick Horton},
+    Doi = {10.1002/csc2.21296},
+    Journal = {Crop Science},
+    Month = {6},
+    Number = {-},
+    Title = {Winter wheat response to plant density in yield contest fields},
+    Volume = {-},
+    Year = {2024}}
+```
