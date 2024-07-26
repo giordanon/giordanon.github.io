@@ -201,5 +201,26 @@
     "title": "Winter wheat response to plant density in yield contest fields",
     "section": "Citation",
     "text": "Citation\n\n Add to Zotero \n\n@article{LollatoEtAl:2024,\n    Author = { Romulo P. Lollato, Luiz O. Pradella, Nicolas Giordano,Luke P. Ryan, Luana M. Simao, Jorge A. Soler, Brent R. Jaenisch, Rick Horton},\n    Doi = {10.1002/csc2.21296},\n    Journal = {Crop Science},\n    Month = {6},\n    Number = {-},\n    Title = {Winter wheat response to plant density in yield contest fields},\n    Volume = {-},\n    Year = {2024}}"
+  },
+  {
+    "objectID": "sadras-et-al-2022/index.html",
+    "href": "sadras-et-al-2022/index.html",
+    "title": "Nico Giordano",
+    "section": "",
+    "text": "Article"
+  },
+  {
+    "objectID": "sadras-et-al-2022/index.html#abstract",
+    "href": "sadras-et-al-2022/index.html#abstract",
+    "title": "Nico Giordano",
+    "section": "Abstract",
+    "text": "Abstract\nNitrogen management is central to the economic and environmental dimensions of agricultural sustainability. Yield response to nitrogen fertilisation results from multiple interacting factors. Theoretical frameworks are lagging for the interaction between nitrogen and air temperature, the focus of this study. We analyse the relation between yield response to nitrogen fertiliser and air temperature in the critical period of yield formation for spring wheat in Australia, winter wheat in the US, and maize in both the US and Argentina. Our framework assumes (i) yield response to nitrogen fertiliser is primarily related to grain number per m2, (ii) grain number is a function of three traits: the duration of the critical period, growth rate during the critical period, and reproductive allocation, and (iii) all three traits vary non-linearly with temperature. We show that “high” nitrogen supply may be positive, neutral, or negative for yield under “high” temperature, depending on the part of the response curve captured experimentally. The relationship between yield response to nitrogen and mean temperature in the critical period was strong in wheat and weak in maize. Negative associations for both spring wheat in Australia and winter wheat with low initial soil nitrogen (< 20 kg N ha-1) in the US highlight the dominant influence of a shorter critical period with higher temperature; with high initial soil nitrogen (> 120 kg N ha-1) that favoured grain number and compromised grain fill, the relation between yield response to nitrogen and temperature was positive for winter wheat. The framework is particularly insightful where data did not match predictions; a non-linear function integrating development, carbon assimilation and reproductive partitioning bounded the pooled data for maize in the US and Argentina, where water regime, previous crop, and soil nitrogen overrode the effect of temperature on yield response to nitrogen fertilisation."
+  },
+  {
+    "objectID": "sadras-et-al-2022/index.html#citation",
+    "href": "sadras-et-al-2022/index.html#citation",
+    "title": "Nico Giordano",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@article{SadrasEtAl:2022,\n    Author = {Victor O. Sadras, Nicolas Giordano, Adrian Correndo, C. Mariano Cossani, Juan M. Ferreyra, Octavio P. Caviglia, Jeffrey A. Coulter, Romulo P. Lollato},\n    Doi = {10.3389/fagro.2022.903340},\n    Journal = {Frontiers in Agronomy},\n    Month = {6},\n    Number = {-},\n    Title = {Temperature-Driven Developmental Modulation of Yield Response to Nitrogen in Wheat and Maize},\n    Volume = {4},\n    Year = {2022}}"
   }
 ]
