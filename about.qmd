@@ -36,12 +36,4 @@ My work bridges state-of-the-art data analytics with crop eco-physiology to boos
 
 :::
 
-::: {.g-col-12 .g-col-sm-12}
-
-## 💼 Get In Touch
-
-Curious about my work? Reach me out via [Email](mailto:giordanonicolas96@gmail.com)
-
-:::
-
 :::
