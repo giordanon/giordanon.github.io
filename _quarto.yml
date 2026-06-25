@@ -17,7 +17,7 @@ website:
   
     right:
       - text: "{{< fa envelope title='E-mail' >}}"
-        href: "mailto:ngiordano@ksu.edu"
+        href: "mailto:giordanonicolas96@gmail.com"
       - text: "{{< fa brands github size=1.1em title='GitHub' >}}"
         href: https://github.com/giordanon
       - text: "{{< fa brands youtube size=1.1em title='YouTube' >}}"
