@@ -1,0 +1,92 @@
+---
+title: "Temperature-driven developmental modulation of yield response to nitrogen in wheat and maize"
+date: 2022-06-27
+author:
+  - name: Victor O. Sadras
+    url:
+    orcid: 0000-0002-5874-6775
+    affiliation: South Australian Research and Development Institute, The University of Adelaide
+  - name: Nicolas Giordano
+    url:
+    orcid: 0000-0003-0159-4958
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Adrian A. Correndo
+    url:
+    orcid: 0000-0002-4172-289X
+    affiliation: Department of Agronomy, Kansas State University
+  - name: C. Mariano Cossani
+    url:
+    orcid:
+    affiliation: South Australian Research and Development Institute, The University of Adelaide
+  - name: Juan M. Ferreyra
+    url:
+    orcid:
+    affiliation: INTA, Argentina
+  - name: Octavio P. Caviglia
+    url:
+    orcid:
+    affiliation: Universidad Nacional de Entre Ríos / CONICET, Argentina
+  - name: Jeffrey A. Coulter
+    url:
+    orcid:
+    affiliation: Department of Agronomy and Plant Genetics, University of Minnesota
+  - name: Ignacio A. Ciampitti
+    url:
+    orcid:
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Romulo P. Lollato
+    url:
+    orcid: 0000-0002-3948-3914
+    affiliation: Department of Agronomy, Kansas State University
+categories:
+  - N management
+  - Temperature
+  - Critical period
+  - Grain number
+  - Wheat
+  - Maize
+pub-info:
+  reference: >-
+    Victor O. Sadras, Nicolas Giordano, Adrian A. Correndo, C. Mariano Cossani, Juan M. Ferreyra, Octavio P. Caviglia, Jeffrey A. Coulter, Ignacio A. Ciampitti and Romulo P. Lollato, “Temperature-driven developmental modulation of yield response to nitrogen in wheat and maize,” <em>Frontiers in Agronomy</em> Vol 4 (2022): 903340. doi: <a href="https://doi.org/10.3389/fagro.2022.903340"><code>10.3389/fagro.2022.903340</code></a>
+  links:
+    - name: Final version (open access)
+      url: https://doi.org/10.3389/fagro.2022.903340
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: sadras-et-al-2022.pdf
+      local: true
+      icon: fa-solid fa-file-pdf
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.3389/fagro.2022.903340
+      icon: ai ai-zotero
+doi: 10.3389/fagro.2022.903340
+haiku:
+  - High nitrogen supply may be positive, neutral, or negative for yield
+  - under high temperature.
+---
+
+## Important links
+
+- [Article (open access)](sadras-et-al-2022.pdf)
+
+## Abstract
+
+Nitrogen management is central to the economic and environmental dimensions of agricultural sustainability. Yield response to nitrogen fertilisation results from multiple interacting factors. Theoretical frameworks are lagging for the interaction between nitrogen and air temperature, the focus of this study. We analyse the relation between yield response to nitrogen fertiliser and air temperature in the critical period of yield formation for spring wheat in Australia, winter wheat in the US, and maize in both the US and Argentina. Our framework assumes (i) yield response to nitrogen fertiliser is primarily related to grain number per m², (ii) grain number is a function of three traits: the duration of the critical period, growth rate during the critical period, and reproductive allocation, and (iii) all three traits vary non-linearly with temperature. We show that "high" nitrogen supply may be positive, neutral, or negative for yield under "high" temperature, depending on the part of the response curve captured experimentally. The relationship between yield response to nitrogen and mean temperature in the critical period was strong in wheat and weak in maize. Negative associations for both spring wheat in Australia and winter wheat with low initial soil nitrogen (< 20 kg N ha⁻¹) in the US highlight the dominant influence of a shorter critical period with higher temperature; with high initial soil nitrogen (> 120 kg N ha⁻¹) that favoured grain number and compromised grain fill, the relation between yield response to nitrogen and temperature was positive for winter wheat. The framework is particularly insightful where data did not match predictions; a non-linear function integrating development, carbon assimilation and reproductive partitioning bounded the pooled data for maize in the US and Argentina, where water regime, previous crop, and soil nitrogen overrode the effect of temperature on yield response to nitrogen fertilisation.
+
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.3389/fagro.2022.903340">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{SadrasEtAl:2022,
+    Author = {Victor O. Sadras and Nicolas Giordano and Adrian A. Correndo and C. Mariano Cossani and Juan M. Ferreyra and Octavio P. Caviglia and Jeffrey A. Coulter and Ignacio A. Ciampitti and Romulo P. Lollato},
+    Doi = {10.3389/fagro.2022.903340},
+    Journal = {Frontiers in Agronomy},
+    Number = {903340},
+    Title = {Temperature-driven developmental modulation of yield response to nitrogen in wheat and maize},
+    Volume = {4},
+    Year = {2022}}
+```

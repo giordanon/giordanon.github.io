@@ -1,0 +1,79 @@
+---
+title: "A Bayesian framework to model variance of grain yield response to plant density"
+date: 2025-03-17
+author:
+  - name: Nicolas Giordano
+    url:
+    orcid: 0000-0003-0159-4958
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Dustin Hayes
+    url:
+    orcid:
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Trevor J. Hefley
+    url:
+    orcid:
+    affiliation: Department of Statistics, Kansas State University
+  - name: Josefina Lacasa
+    url:
+    orcid:
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Brian L. Beres
+    url:
+    orcid:
+    affiliation: Agriculture and Agri-Food Canada
+  - name: Lucas A. Haag
+    url:
+    orcid:
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Romulo P. Lollato
+    url:
+    orcid: 0000-0002-3948-3914
+    affiliation: Department of Agronomy, Kansas State University
+categories:
+  - Bayesian modeling
+  - Plant density
+  - Seeding rate
+  - Yield variance
+  - Risk assessment
+pub-info:
+  reference: >-
+    Nicolas Giordano, Dustin Hayes, Trevor J. Hefley, Josefina Lacasa, Brian L. Beres, Lucas A. Haag and Romulo P. Lollato, “A Bayesian framework to model variance of grain yield response to plant density,” <em>Plant Methods</em> Vol 21 (2025): 38. doi: <a href="https://doi.org/10.1186/s13007-025-01355-y"><code>10.1186/s13007-025-01355-y</code></a>
+  links:
+    - name: Final version (open access)
+      url: https://doi.org/10.1186/s13007-025-01355-y
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1186/s13007-025-01355-y
+      icon: ai ai-zotero
+doi: 10.1186/s13007-025-01355-y
+haiku:
+  - A Bayesian framework models yield variance
+  - to find the minimum-risk plant density.
+---
+
+## Abstract
+
+**Background:** The expected grain yield response to plant density in winter wheat (*Triticum aestivum* L.) follows a diminishing returns function. To our knowledge, all previous studies dealing with plant density have assumed constant variance. The gap relies on quantifying the optimum plant density that optimizes grain yield at the lowest risk. Here, we propose a Bayesian hierarchical framework to model the variance of grain yield response to plant density. We demonstrate our framework by identifying the plant density in each seed size, seed treatment and environment combination that maximizes the expected yield and minimizes yield variance.
+
+**Results:** To fit the model, we used data from field experiments conducted in the Canadian Prairies to identify informative priors and Kansas experiments to demonstrate and validate our framework. Kansas experiments were conducted in 25 environments and consisted of a complete factorial combination of three seed cleaning methods leading to three different seed sizes (light, moderate, heavy), two or three seeding rates, and two seed chemical treatments (insecticide + fungicide vs. none). We described both expected yield and variance of yield in response to plant density. The proposed model allowed us to quantify the minimum risk plant density (minRPD), which represents the minimum plant density at which grain yield variance becomes constant. Plant density at the minRPD was always greater than the agronomic optimum plant density (AOPD, i.e.: the plant density that maximizes expected yield); thus, minRPD could be used to estimate the minimum plant density that maximizes expected yield and minimizes yield variance. When compared at the AOPD, four seed cleaning × chemical treatments combinations resulted in similar yield advantages over the control under high and low yielding environments. However, in low-yielding environments, only two cleaning × chemical treatments combinations resulted in smaller variance when compared at the minRPD against the control. All seed cleaning × chemical treatments combinations resulted in similar AOPD. However, two cleaning × chemical treatments combinations had greater minRPD in low-yield environments compared to the control.
+
+**Conclusion:** Modeling grain yield response to plant density with the proposed framework is suitable for heteroscedastic data scenarios. Future research may focus on exploring how genotypes, environments and their interaction modulate the difference between AOPD and minRPD and, extend the framework to a variety of processes involving crop management decisions.
+
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1186/s13007-025-01355-y">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{GiordanoEtAl:2025,
+    Author = {Nicolas Giordano and Dustin Hayes and Trevor J. Hefley and Josefina Lacasa and Brian L. Beres and Lucas A. Haag and Romulo P. Lollato},
+    Doi = {10.1186/s13007-025-01355-y},
+    Journal = {Plant Methods},
+    Number = {38},
+    Title = {A Bayesian framework to model variance of grain yield response to plant density},
+    Volume = {21},
+    Year = {2025}}
+```

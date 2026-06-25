@@ -1,0 +1,90 @@
+---
+title: "High yield stability and susceptibility to stripe rust associate with large yield gaps in rainfed winter wheat"
+date: 2025-11-01
+author:
+  - name: Nicolas Giordano
+    url:
+    orcid: 0000-0003-0159-4958
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Victor O. Sadras
+    url:
+    orcid: 0000-0002-5874-6775
+    affiliation: South Australian Research and Development Institute, The University of Adelaide
+  - name: Mary J. Guttieri
+    url:
+    orcid:
+    affiliation: USDA-ARS, Hard Winter Wheat Genetics Research Unit
+  - name: Trevor J. Hefley
+    url:
+    orcid:
+    affiliation: Department of Statistics, Kansas State University
+  - name: Jorge A. Romero Soler
+    url:
+    orcid:
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Clark Neely
+    url:
+    orcid:
+    affiliation: Washington State University
+  - name: Jeffrey T. Edwards
+    url:
+    orcid:
+    affiliation: Department of Plant and Soil Sciences, Oklahoma State University
+  - name: Amanda de Oliveira Silva
+    url:
+    orcid:
+    affiliation: Department of Plant and Soil Sciences, Oklahoma State University
+  - name: Allan K. Fritz
+    url:
+    orcid:
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Romulo P. Lollato
+    url:
+    orcid: 0000-0002-3948-3914
+    affiliation: Department of Agronomy, Kansas State University
+categories:
+  - Yield gaps
+  - Yield stability
+  - Stripe rust
+  - Rainfed wheat
+pub-info:
+  reference: >-
+    Nicolas Giordano, Victor O. Sadras, Mary J. Guttieri, Trevor J. Hefley, Jorge A. Romero Soler, Clark Neely, Jeffrey T. Edwards, Amanda de Oliveira Silva, Allan K. Fritz and Romulo P. Lollato, “High yield stability and susceptibility to stripe rust associate with large yield gaps in rainfed winter wheat,” <em>Field Crops Research</em> Vol 333 (2025): 110118. doi: <a href="https://doi.org/10.1016/j.fcr.2025.110118"><code>10.1016/j.fcr.2025.110118</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.1016/j.fcr.2025.110118
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1016/j.fcr.2025.110118
+      icon: ai ai-zotero
+doi: 10.1016/j.fcr.2025.110118
+haiku:
+  - Yield stability and stripe rust susceptibility
+  - associate with large yield gaps in rainfed wheat.
+---
+
+## Abstract
+
+This study examines the magnitude and drivers of grain yield gaps in rainfed winter wheat, relating them to yield stability and susceptibility to stripe rust. The full abstract is available from the publisher.
+
+<p class="buttons">
+<a class="btn btn-primary" target="_blank" href="https://doi.org/10.1016/j.fcr.2025.110118">Read the full abstract at <em>Field Crops Research</em> {{< fa square-arrow-up-right >}}</a>
+</p>
+
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1016/j.fcr.2025.110118">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{GiordanoEtAl:2025,
+    Author = {Nicolas Giordano and Victor O. Sadras and Mary J. Guttieri and Trevor J. Hefley and Jorge A. Romero Soler and Clark Neely and Jeffrey T. Edwards and Amanda de Oliveira Silva and Allan K. Fritz and Romulo P. Lollato},
+    Doi = {10.1016/j.fcr.2025.110118},
+    Journal = {Field Crops Research},
+    Number = {110118},
+    Title = {High yield stability and susceptibility to stripe rust associate with large yield gaps in rainfed winter wheat},
+    Volume = {333},
+    Year = {2025}}
+```

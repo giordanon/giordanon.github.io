@@ -1,0 +1,116 @@
+---
+title: "Genetic modulation of yield and phenotypic plasticity of yield in winter wheat"
+date: 2025-11-04
+author:
+  - name: Nicolas Giordano
+    url:
+    orcid: 0000-0003-0159-4958
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Victor O. Sadras
+    url:
+    orcid: 0000-0002-5874-6775
+    affiliation: South Australian Research and Development Institute, The University of Adelaide
+  - name: Mary J. Guttieri
+    url:
+    orcid:
+    affiliation: USDA-ARS, Hard Winter Wheat Genetics Research Unit
+  - name: Giovana Cruppe
+    url:
+    orcid:
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Guihua Bai
+    url:
+    orcid:
+    affiliation: USDA-ARS, Hard Winter Wheat Genetics Research Unit
+  - name: Allan Fritz
+    url:
+    orcid:
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Amy Bernardo
+    url:
+    orcid:
+    affiliation: USDA-ARS, Hard Winter Wheat Genetics Research Unit
+  - name: Paul St. Amand
+    url:
+    orcid:
+    affiliation: USDA-ARS, Hard Winter Wheat Genetics Research Unit
+  - name: Pablo Abbate
+    url:
+    orcid:
+    affiliation: INTA, Argentina
+  - name: Andres Berger
+    url:
+    orcid:
+    affiliation: INIA, Uruguay
+  - name: Jeffrey Boehm
+    url:
+    orcid:
+    affiliation: USDA-ARS
+  - name: Amanda de Oliveira Silva
+    url:
+    orcid:
+    affiliation: Department of Plant and Soil Sciences, Oklahoma State University
+  - name: Sally Jones-Diamond
+    url:
+    orcid:
+    affiliation:
+  - name: Scott Haley
+    url:
+    orcid:
+    affiliation: Department of Soil and Crop Sciences, Colorado State University
+  - name: Jane Lingenfelser
+    url:
+    orcid:
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Guorong Zhang
+    url:
+    orcid:
+    affiliation: Department of Agronomy, Kansas State University
+  - name: Romulo P. Lollato
+    url:
+    orcid: 0000-0002-3948-3914
+    affiliation: Department of Agronomy, Kansas State University
+categories:
+  - Phenotypic plasticity
+  - G x E interaction
+  - Plant breeding
+  - GWAS
+  - Heritability
+pub-info:
+  reference: >-
+    Nicolas Giordano, Victor O. Sadras, Mary J. Guttieri, Giovana Cruppe, Guihua Bai, Allan Fritz, Amy Bernardo, Paul St. Amand, Pablo Abbate, Andres Berger, Jeffrey Boehm, Amanda de Oliveira Silva, Sally Jones-Diamond, Scott Haley, Jane Lingenfelser, Guorong Zhang and Romulo P. Lollato, “Genetic modulation of yield and phenotypic plasticity of yield in winter wheat,” <em>Journal of Experimental Botany</em> Vol 77, no. 9 (2026): 2743–2756. doi: <a href="https://doi.org/10.1093/jxb/eraf478"><code>10.1093/jxb/eraf478</code></a>
+  links:
+    - name: Final version (open access)
+      url: https://doi.org/10.1093/jxb/eraf478
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1093/jxb/eraf478
+      icon: ai ai-zotero
+doi: 10.1093/jxb/eraf478
+haiku:
+  - Breeding for yield and agronomic adaptation
+  - increased phenotypic plasticity of yield over time.
+---
+
+## Abstract
+
+For winter wheat in the US Central Great Plains, phenotypic plasticity of yield is agronomically adaptive, that is, genotypes with higher plasticity have higher yield in high yielding environments with no tradeoff in stressful, low yielding environments. Using data from variety trials conducted between 2000 and 2022 and cultivars released between 1991 and 2022, we explored time trends in phenotypic plasticity and heritability of yield. Given that yield plasticity is agronomically adaptive in the Great Plains, we hypothesize that (i) newer cultivars will have higher yield plasticity; (ii) heritability of yield is declining in the time series; and (iii) genomic regions associated with yield depend on the environment and do not fully overlap with those associated with phenotypic plasticity of yield. Breeding for yield and agronomic adaptation increased phenotypic plasticity of yield at 0.5% year⁻¹; broad sense heritability of yield decreased from 0.23 in 1993 to 0.15 in 2017. Genome-wide association analysis shows genomic regions associated with yield varied between high yielding and stressful environments and were partially independent of those associated with yield plasticity. Newer cultivars have a higher frequency of alleles associated with yield and its plasticity. We discuss implications for breeding and agronomy aimed at improving wheat phenotypes.
+
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1093/jxb/eraf478">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{GiordanoEtAl:2026,
+    Author = {Nicolas Giordano and Victor O. Sadras and Mary J. Guttieri and Giovana Cruppe and Guihua Bai and Allan Fritz and Amy Bernardo and Paul St. Amand and Pablo Abbate and Andres Berger and Jeffrey Boehm and Amanda de Oliveira Silva and Sally Jones-Diamond and Scott Haley and Jane Lingenfelser and Guorong Zhang and Romulo P. Lollato},
+    Doi = {10.1093/jxb/eraf478},
+    Journal = {Journal of Experimental Botany},
+    Number = {9},
+    Pages = {2743--2756},
+    Title = {Genetic modulation of yield and phenotypic plasticity of yield in winter wheat},
+    Volume = {77},
+    Year = {2026}}
+```

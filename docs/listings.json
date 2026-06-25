@@ -1,16 +1,14 @@
 [
   {
-    "listing": "/research/research.html",
-    "items": [
-      "/research/articles/chaudhry-dotson-heiss-2021/index.html"
-    ]
-  },
-  {
     "listing": "/research/index.html",
     "items": [
+      "/research/articles/giordano-et-al-2025-jxb/index.html",
+      "/research/articles/giordano-et-al-2025-fcr/index.html",
+      "/research/articles/giordano-et-al-2024-plant-methods/index.html",
       "/research/articles/lollato-et-al-2024/index.html",
       "/research/articles/giordano-sadras-correndo-lollato-2023/index.html",
-      "/research/articles/giordano-sadras-lollato-2022/index.html"
+      "/research/articles/giordano-sadras-lollato-2022/index.html",
+      "/research/articles/sadras-et-al-2022/index.html"
     ]
   }
 ]

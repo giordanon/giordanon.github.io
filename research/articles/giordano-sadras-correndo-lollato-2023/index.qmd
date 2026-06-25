@@ -46,10 +46,6 @@ haiku:
   - to assess G × N interactions.
 ---
 
-## Important links
-
-- [Article](1-s2.0-S0378429023003957-main.pdf)
-
 ## Abstract
 
 Context: Owing to the interaction between genotype and environment (G x E), identifying traits to increase wheat yield and grain protein concentration simultaneously or increasing one without affecting the other remains a challenge. Phenotypic plasticity is an insightful perspective to understand G x E.

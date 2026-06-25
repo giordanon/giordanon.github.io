@@ -30,7 +30,9 @@ format:
 ::: {.g-col-12 .g-col-sm-8}
 
 
-I'm a PhD student at the [Department of Agronomy at Kansas State university](https://www.agronomy.k-state.edu/). I received my B.Sc. in Agricultural Engineering from the University of Buenos Aires, Argentina.
+I'm a Postdoctoral Research Associate at the [Department of Agronomy and Horticulture at the University of Nebraska-Lincoln](https://agronomy.unl.edu/), where I study nitrogen fertilization strategies, agronomic management, and their environmental outcomes across major cropping systems. I earned my Ph.D. in Agronomy from [Kansas State University](https://www.agronomy.k-state.edu/) and my B.Sc. in Agricultural Engineering from the University of Buenos Aires, Argentina.
+
+My work bridges state-of-the-art data analytics with crop eco-physiology to boost on-farm productivity and narrow yield gaps.
 
 :::
 
