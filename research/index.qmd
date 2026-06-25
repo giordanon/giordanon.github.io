@@ -11,7 +11,7 @@ include-back-link: false
 toc-location: right
 ---
 
-My interests lie in between applied agronomy and data-science, focused on improving on-farm productivity and profitability, while minimizing environmental negative outcomes. I have used a wide array of methods including mixed-models, Bayesian probability quantification, process-based models, and machine learning among others, to extract practical and pragmatic decisions that help stakeholders in the agricultural industry to take informed decisions. 
+My interests lie in between applied agronomy and data-science, focused on improving on-farm productivity and profitability, while minimizing environmental negative outcomes. I have used a wide array of methods including mixed-models, Bayesian probability quantification, process-based models, and machine learning among others, to extract practical and pragmatic decisions that help stakeholders in the agricultural industry to take informed decisions. I have also used qualitative methods, including elicitation of industry experts to derive insights for developing a sustainable bread label.
 
 ## Journal articles
 
